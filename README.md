@@ -6,6 +6,7 @@ As of now you can run cloth and rigid body simulations with or without collision
 In the Scripts/settings file you can change some functionality by changing the values of the variables
 
 After you run the main.py program you can interact with the engine in these ways:
+- left_click + over_object to accelerate object towards the mouse
 - left_shift + left_click to add objects
 - right_click + drag to add rigid objects
 - right_click + left_shift + drag to add cloth
